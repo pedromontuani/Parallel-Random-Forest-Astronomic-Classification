@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# C++ build artifacts
+build/
+dist/
+*.o
+*.obj
+*.dll
+*.exe
+*.out
+*.a
+*.lib
+
+# pybind11/setuptools build
+*.egg-info/
+*.egg
+*.manifest
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Data files (if generated)
+data/train_data.csv
+data/test_data.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# C++ project/IDE files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
+*.cbp
+*.pro
+*.qmake.stash
+*.idea/
+*.vscode/
