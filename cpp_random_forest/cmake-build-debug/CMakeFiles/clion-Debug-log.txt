@@ -1,0 +1,4 @@
+/home/pedro/.cache/JetBrains/RemoteDev/dist/0423fa40d374b_CLion-2025.1.1-aarch64/bin/cmake/linux/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/pedro/.cache/JetBrains/RemoteDev/dist/0423fa40d374b_CLion-2025.1.1-aarch64/bin/ninja/linux/aarch64/ninja -G Ninja -S /home/pedro/PycharmProjects/CelestialBodiesClassification/cpp_random_forest -B /home/pedro/PycharmProjects/CelestialBodiesClassification/cpp_random_forest/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/pedro/PycharmProjects/CelestialBodiesClassification/cpp_random_forest/cmake-build-debug
